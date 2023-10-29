@@ -1,0 +1,6 @@
+fastapi
+gradio
+python-dotenv
+openai
+pandas
+openpyxl
